@@ -1,4 +1,4 @@
-# raw messages for joel's birthday
+
 data = tibble::tribble(
   ~name,  ~msg,
   "Nancy","Have a great and wonderful birthday, Dave! You rock!",
