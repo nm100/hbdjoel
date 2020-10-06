@@ -21,3 +21,4 @@ data = tibble::tribble(
 usethis::use_data(data, internal = FALSE, overwrite = TRUE, compress = "xz")
 
 
+
